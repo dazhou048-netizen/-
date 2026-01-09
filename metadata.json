@@ -1,0 +1,7 @@
+{
+  "name": "AI 换装大师 (AI Try-On Master)",
+  "description": "基于 Nano Banana (Gemini 2.5 Flash Image) 的智能 AI 换装应用，支持人物上传、服装生成与一键试穿。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
